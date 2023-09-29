@@ -1,0 +1,216 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="240fd610-226e-455c-9404-a57a528bce95" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/MaxMedianIndexSubArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MaxSlidingWindow.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ReverseLinkedList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Scaler Notes/2d_Matrix_1.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Scaler Notes/Adv_2_Pointers.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Scaler Notes/Adv_Arrays_3.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Scaler Notes/Adv_Binary_Search_1.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Scaler Notes/Adv_Binary_Search_2.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Scaler Notes/Adv_Binary_Search_3.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Scaler Notes/Adv_Binary_Search_4.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Scaler Notes/Adv_Bits_2.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Scaler Notes/Adv_Deque_2.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Scaler Notes/Adv_Hashing_1.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Scaler Notes/Adv_Hashing_2.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Scaler Notes/Adv_LinkedList_2.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Scaler Notes/Adv_Linked_List_3.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Scaler Notes/Adv_Linked_list_4.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Scaler Notes/Adv_Pattern_Matching_2.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Scaler Notes/Adv_Queues_1.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Scaler Notes/Adv_Recursion.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Scaler Notes/Adv_Sorting_1.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Scaler Notes/Adv_Sorting_2.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Scaler Notes/Adv_Sorting_3.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Scaler Notes/Adv_Stacks_4.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Scaler Notes/Adv_Stacks_6.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Scaler Notes/Adv_Trees_1.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Scaler Notes/Adv_Trees_11.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Scaler Notes/Adv_Trees_4.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Scaler Notes/Adv_Trees_6.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Scaler Notes/Adv_Trees_8.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Scaler Notes/Arrays_1_.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Scaler Notes/Arrays_3.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Scaler Notes/Beg_Adv_Arrays2.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Scaler Notes/Beg_Adv_arrays___3.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Scaler Notes/Bits_1.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Scaler Notes/Bits_2_.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Scaler Notes/Bits_3_.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Scaler Notes/Class_Object_.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Scaler Notes/Interview_Problems1.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Scaler Notes/Interview_Problems_2_Copy.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Scaler Notes/JuneBit_Manipulation_1.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Scaler Notes/June_Carryforward.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Scaler Notes/June_Hashing_1.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Scaler Notes/June_Hashing_2.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Scaler Notes/June_Introduction_to_Problem_.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Scaler Notes/June_Recursion_1.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Scaler Notes/June_Recursion_2.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Scaler Notes/June_Subarrays_1.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Scaler Notes/Maths_GCD_.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Scaler Notes/Maths_Moduler_.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Scaler Notes/Maths_Permutations_.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Scaler Notes/Maths_Primes.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Scaler Notes/Modular_Arthimetics.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Scaler Notes/Note_27_Aug_2022.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Scaler Notes/Note_29_Aug_2022.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Scaler Notes/Pattern_Matching_1_Copy.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Scaler Notes/Prefix_2_.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Scaler Notes/Prefix_sum__1.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Scaler Notes/Sorting_Int.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Scaler Notes/Stacks_Basics.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Scaler Notes/Strings__3.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Scaler Notes/Time_Complexity___1__.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Scaler Notes/Time_complexity_2__Copy__2_.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Scaler Notes/Trees_Basics_.pdf" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="2PpAjBR4bU8pKUuJL7KrDvclJGf" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "ignore.virus.scanning.warn.message": "true",
+    "last_opened_file_path": "F:/Learnings/Data-Strucutred-And-Algorithms",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RunManager" selected="Application.MaxSlidingWindow">
+    <configuration name="AnagramPairs" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="AnagramPairs" />
+      <module name="Data-Strucutred-And-Algorithms" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="Data-Strucutred-And-Algorithms" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MaxMedianIndexSubArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="MaxMedianIndexSubArray" />
+      <module name="Data-Strucutred-And-Algorithms" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MaxSlidingWindow" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="MaxSlidingWindow" />
+      <module name="Data-Strucutred-And-Algorithms" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.MaxSlidingWindow" />
+        <item itemvalue="Application.MaxMedianIndexSubArray" />
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.AnagramPairs" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="240fd610-226e-455c-9404-a57a528bce95" name="Changes" comment="" />
+      <created>1684143782728</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1684143782728</updated>
+      <workItem from="1684143783498" duration="698000" />
+      <workItem from="1684777307487" duration="1216000" />
+      <workItem from="1688723680546" duration="6014000" />
+      <workItem from="1692133359485" duration="606000" />
+      <workItem from="1692361759681" duration="2867000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/AnagramPairs.java</url>
+          <line>16</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/AnagramPairs.java</url>
+          <line>24</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/AnagramPairs.java</url>
+          <line>18</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/AnagramPairs.java</url>
+          <line>32</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/AnagramPairs.java</url>
+          <line>47</line>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/MaxMedianIndexSubArray.java</url>
+          <line>8</line>
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/MaxSlidingWindow.java</url>
+          <line>8</line>
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/MaxMedianIndexSubArray.java</url>
+          <line>1</line>
+          <properties class="MaxMedianIndexSubArray" method="main">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
